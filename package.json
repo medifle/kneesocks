@@ -25,8 +25,8 @@
   },
   "dependencies": {
     "debug": "^2.1.1",
-    "dnscache": "0.0.3",
-    "socksv5": "0.0.4"
+    "dnscache": "^0.0.3",
+    "socksv5": "^0.0.6"
   },
   "devDependencies": {
     "chai": "^1.10.0",
